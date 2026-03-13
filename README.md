@@ -1,26 +1,37 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Lucas%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Node.js+%7C+React+%7C+PHP;DevOps+Enthusiast;Building+Scalable+Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=170&section=header&text=devLucasRS&fontSize=42&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=devLucasRS&style=for-the-badge&color=blueviolet"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%24+boot+devLucasRS;%24+initializing+developer+environment...;%24+loading+modules...;%24+Software+Engineer;%24+Node.js+%7C+React+%7C+PHP;%24+DevOps+%26+Automation"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/status-online-00ff9c?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/environment-production-00F7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/os-linux-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/location-brazil-green?style=flat-square"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 Developer Profile
 
-Software engineer focused on building **scalable systems**, **automation tools** and **high performance applications**.
+```bash
+devLucasRS@github:~$ whoami
+Lucas Santos
+Software Engineer
 
-Strong experience with **backend architecture, APIs, infrastructure and full stack development**.
-
-Always looking for **efficient solutions and clean architecture**.
+devLucasRS@github:~$ focus
+Building scalable systems
+Backend architecture
+Automation & DevOps
+High performance applications
+```
 
 ---
 
-# ⚡ Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
@@ -33,7 +44,7 @@ Always looking for **efficient solutions and clean architecture**.
 
 ---
 
-### Frameworks
+### Frameworks & Runtime
 
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
@@ -43,13 +54,13 @@ Always looking for **efficient solutions and clean architecture**.
 
 ### Databases
 
-![Postgres](https://skillicons.dev/icons?i=postgres)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ---
 
-### Development Environment
+### Dev Environment
 
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Linux](https://skillicons.dev/icons?i=linux)
@@ -70,7 +81,7 @@ Always looking for **efficient solutions and clean architecture**.
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devLucasRS&theme=tokyonight&hide_border=true"/>
@@ -78,7 +89,7 @@ Always looking for **efficient solutions and clean architecture**.
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -90,12 +101,12 @@ Always looking for **efficient solutions and clean architecture**.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/lcsantos2911/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:llucasrs@icloud.com">
 <img src="https://img.shields.io/badge/iCloud-Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lcsantos2911/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/l_lucss">
@@ -106,4 +117,6 @@ Always looking for **efficient solutions and clean architecture**.
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
+</p>
