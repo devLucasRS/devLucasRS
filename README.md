@@ -1,17 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devLucasRS/devLucasRS/main/assets/banner.png" width="100%" />
-</p>
 
-### Meus Troféus
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devLucasRS&theme=onedark&column=7" alt="trophy" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="./assets/ide-banner.gif" alt="IDE Banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Building+scalable+systems;Backend+%7C+Automation+%7C+DevOps;Node.js+%7C+React+%7C+PHP" />
@@ -67,6 +54,3 @@ I build scalable systems, automation workflows and high-performance applications
 
 ### Minha Grade de Contribuições (Snake Game)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/devLucasRS/devLucasRS/output/github-contribution-grid-snake.svg)
-
-### Meus Stats (Metrics)
-![GitHub Metrics](https://raw.githubusercontent.com/devLucasRS/devLucasRS/main/github-metrics.svg)
