@@ -1,0 +1,21 @@
+name: daily-commit
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # Todo dia às 9h
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update last_commit.txt
+        run: date > last_commit.txt
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add last_commit.txt
+          git commit -m "Daily contribution"
+          git push
