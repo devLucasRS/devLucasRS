@@ -56,3 +56,6 @@ I build scalable systems, automation workflows and high-performance applications
 
 ### Minha Grade de Contribuições (Snake Game)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/devLucasRS/devLucasRS/output/github-contribution-grid-snake.svg)
+
+### Meus Stats (Metrics)
+![GitHub Metrics](https://raw.githubusercontent.com/devLucasRS/devLucasRS/main/github-metrics.svg)
