@@ -1,105 +1,87 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lucas%20Santos&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<h1 align="center">🚀 Software Engineer</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Lucas%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-Full Stack Developer focused on building scalable and high-impact systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Node.js+%7C+React+%7C+PHP;DevOps+Enthusiast;Building+Scalable+Systems"/>
 </p>
 
 <p align="center">
-I specialize in modern web technologies such as <strong>Node.js, React, PHP and TypeScript</strong>, building complete solutions from backend architecture to frontend experience.
-</p>
-
-<p align="center">
-⚡ Passionate about automation, DevOps practices and high performance systems.
+<img src="https://komarev.com/ghpvc/?username=devLucasRS&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-# 💻 About Me
+# 👨‍💻 About Me
 
-🔥 Software engineer passionate about solving real-world problems with technology.
+Software engineer focused on building **scalable systems**, **automation tools** and **high performance applications**.
 
-💡 Focused on **building scalable systems, automation pipelines and modern SaaS platforms.**
+Strong experience with **backend architecture, APIs, infrastructure and full stack development**.
 
-⚙️ Experienced in **Full Stack Development**, **API architecture**, **cloud infrastructure** and **DevOps practices**.
-
-🚀 Always exploring better ways to optimize workflows and deliver **high-impact solutions**.
+Always looking for **efficient solutions and clean architecture**.
 
 ---
 
-# 🧠 Tech Stack
+# ⚡ Tech Stack
 
-## 🚀 Main Technologies
+### Languages
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/>
-
-</p>
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
+![Dart](https://skillicons.dev/icons?i=dart)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
 
 ---
 
-## 🧩 Other Languages
+### Frameworks
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-
-</p>
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
 
 ---
 
-## 🗄 Databases
+### Databases
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ---
 
-## 🛠 Development Environment
+### Development Environment
+
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devLucasRS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasRS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 Contribution Streak
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=l_lucss&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l_lucss&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devLucasRS&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# ⚡ Activity Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=l_lucss&theme=tokyo-night"/>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -108,20 +90,20 @@ I specialize in modern web technologies such as <strong>Node.js, React, PHP and 
 
 <p align="center">
 
-<a href="https://www.instagram.com/l_lucss">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/lcsantos2911/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:llucasrs@icloud.com">
-<img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/iCloud-Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/lcsantos2911/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.instagram.com/l_lucss">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
