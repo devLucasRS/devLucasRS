@@ -1,36 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=180&section=header&text=Lucas%20Santos&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="./assets/ide-banner.gif" alt="IDE Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer;Building+scalable+systems;Node.js+%7C+React+%7C+PHP;Automation+%7C+DevOps;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Building+scalable+systems;Backend+%7C+Automation+%7C+DevOps;Node.js+%7C+React+%7C+PHP" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devLucasRS&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=devLucasRS&style=for-the-badge&color=0e75b6" alt="profile views" />
 </p>
 
 ---
 
-## 🧠 Developer Console
+## About Me
 
-```bash id="j2k8zs"
-devLucasRS@github:~$ whoami
-Lucas Santos
-
-devLucasRS@github:~$ role
-Software Engineer
-
-devLucasRS@github:~$ interests
-Backend architecture
-Automation
-DevOps
-Scalable systems
-```
+I build scalable systems, automation workflows and high-performance applications with strong focus on backend architecture, clean code and product execution.
 
 ---
 
-## ⚙️ Tech Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,kotlin,nodejs,react,redux,postgres,mysql,mongodb,docker,linux,git,vscode" />
@@ -38,7 +26,7 @@ Scalable systems
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=devLucasRS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -51,22 +39,16 @@ Scalable systems
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <p align="center">
   <a href="mailto:llucasrs@icloud.com">
-    <img src="https://img.shields.io/badge/iCloud-Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lcsantos2911/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/l_lucss">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=120&section=footer"/>
 </p>
