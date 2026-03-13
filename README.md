@@ -19,7 +19,7 @@ I build scalable systems, automation workflows and high-performance applications
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,kotlin,nodejs,react,redux,postgres,mysql,mongodb,docker,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,kotlin,nodejs,react,redux,postgres,mysql,mongodb,linux,git,vscode" />
 </p>
 
 ---
