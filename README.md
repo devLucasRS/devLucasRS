@@ -1,4 +1,15 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devLucasRS/devLucasRS/main/assets/banner.png" width="100%" />
+</p>
+
+### Meus Troféus
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devLucasRS&theme=onedark&column=7" alt="trophy" />
+  </a>
+</p>
+
+<p align="center">
   <img src="./assets/ide-banner.gif" alt="IDE Banner" width="100%" />
 </p>
 
